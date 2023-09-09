@@ -1,0 +1,18 @@
+{
+	"get": [
+		"http://63sv42iuu4uh3ygtzuacfwcgikozez6any2z72grcqwgiwv2injfrsyd.onion/search?q=",
+		"http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion/search?action=search&query=",
+		"http://orealmvxooetglfeguv2vp65a3rig2baq2ljc7jxxs4hsqsrcemkxcad.onion/search?action=search&query=",
+		"http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/?q=",
+		"http://iceberget6r64etudtzkyh5nanpdsqnkgav5fh72xtvry3jyu5u2r5qd.onion/?term=",
+		"http://darksid3f3ggicny772rvdmrcgfbtixsyjpdgm6unh5qci6r24ukg4qd.onion/?k=",
+		"http://ondexcylxxxq6vcc62l3r2m6rypohvvymsvqeadhln5mjo73pf6ksjad.onion/?query=",
+		"http://torlbmqwtudkorme6prgfpmsnile7ug2zm4u3ejpcncxuhpu4k2j4kyd.onion/index.php?a=search&q=",
+		"http://spacednczzrstmwlrt2olozfyrxcnrn3seyz2t4nhigujx5yivfy23id.onion/?q=",
+		"http://bobby64o755x3gsuznts6hf6agxqjcz5bop6hs7ejorekbm7omes34ad.onion/search_result.php?search_btn=&search_text=",
+		"http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/search/?q=",
+		"http://zb2jtkhnbvhkya3d46twv3g7lkobi4s62tjffqmafjibixk6pmq75did.onion/gdark/search.php?search=1&query="
+	],
+	"post": [
+	]
+}
